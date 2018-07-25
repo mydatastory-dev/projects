@@ -1,0 +1,28 @@
+
+Informatics/Analytics Task-Force Meeting Minutes (03.29.18)
+
+Attendees 
+Sarah Meyer, Dan Maxwell, Ethan White, Scott Kostyschak, Joe Wu, Denis Valle, 
+Dave Schwieder, Charles Moss, Plato Smith
+
+Sarah reviewed the task-force charge and led the conversation of what members wanted to discuss in future meetings.  
+A list of prioritized topics are listed below.
+
+	1) Coordination of curriculum efforts
+	2) Assessment of graduate student knowledge re/data science -- What is needed?
+	3) Importance of domain datasets and learning experiences
+
+Denis suggested that we create an online survey to be sent to all of the task-force members,
+asking what topics they would like to discuss in future meetings.  Sarah and Dan will develop this.
+
+Ben Toh, Justin Millar, and Shawn Taylor presented statistics and information about the
+R Meetups and the Data Carpentry semester-long workshop.  
+
+The task-force discussed the value of non-credit learning experiences and the need to support them, both
+in the curriculum and financially.
+
+Plato asked if certification might be an option.  Ethan suggested that certification might be workable
+if a student structures it as a 1 hour special topics class with their faculty advisor. 
+  
+The meeting adjourned at 3:00 pm.
+	

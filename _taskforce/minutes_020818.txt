@@ -1,0 +1,57 @@
+
+Informatics & Analytics Task Force
+Meeting February 8, 2018
+Minutes
+
+Present: Maxwell, Meyer, Mocko, Ridgewell, Jacobbe, White, Moss, Oli, Schwieder, Vacca, Valle Kostyshak, Gitzendanner, Rushing (intern for Smith) 
+
+Review of Task Force Charge
+    The purpose of this task-force is to provide a forum where faculty engaged in teaching credit-bearing data science classes can share and discuss issues of mutual interest. 
+
+Additionally, the Task-Force charge contains three advisory activities
+1) Formally assess, through surveys, interviews, and focus groups, campus-wide data analytics needs and current resources and activities.  
+    
+2) Review and consider the best practices and models of peer institutions who are leaders in data science education.  
+3) Develop campus-wide recommendations in support of analytics and statistics education.
+
+There are two operational activities
+1) Create topics courses and workshops that support the curriculum offered by data science faculty across campus. 
+2) Develop training materials to be used in informatics & analytics topics courses and workshops  
+
+This focus can be adjusted and/or refined according to the group's desires and need
+
+Introductions 
+
+Task force members introduced themselves, their affiliated college or department and interest in data science education.
+
+Future Topics 
+Topics for future task force meetings were discussed. Suggestions from the chair were: 
+a)	What is the role of non-credit learning experiences (workshops & seminars)?
+b)	How can informal Communities of Practice support the data science classes presently offered on campus? 
+c)	What does effective student assessment look like?  (Today’s focus)
+d)	How can adaptive learning systems assist in the delivery of a world-class data science education?
+e)	How might we collaborate as a group to advance data science education at UF?
+f)	What data science education models already exist and how do we copy what's working at other universities – one example being Berkeley's Data8 course.
+g)	Do we want to sponsor a Data Science education summit or symposium?
+h)	Are there research collaborations we might want to undertake?
+ 
+Additional  topic suggestions from members
+a)	How to reduce reinvention of wheel in advancing data science at UF 
+b)	Challenges to  developing a new data science course 
+a.	Teaching requirements 
+b.	Curriculum revisions 
+c.	Departmental barriers 
+c)	Developing fused or equivalent competency courses 
+d)	How to ensure more students graduate with data analysis skills 
+
+
+Presentation 
+Levels of Conceptual Understanding in Statistics – Tim Jacobbe 
+
+
+Information Items 
+Denis Valle has an online list of statistics courses currently taught at UF: 
+http://ufstatscourses.shinyapps.io/shiny_tutorial
+
+
+
