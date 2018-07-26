@@ -1,0 +1,31 @@
+
+ADMIN
+  1. Setup of New User
+      Creating branches
+      Development branch for each team member
+      
+  2. Pull Requests
+  
+  3. Permissions 
+      Setup
+      Repositories
+      Branches
+      
+  4. Merge Conflicts
+  
+  
+USER
+  1. Create new file
+      BRANCH CHECK
+  
+  2. Update file
+      BRANCH CHECK
+      
+  3. Delete file
+      BRANCH CHECK
+      
+  4. Pull Request
+      Emails from administrator
+      Merge conflicts
+      
+  5. Synching development branch w/master
