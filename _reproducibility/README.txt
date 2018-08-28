@@ -1,5 +1,5 @@
 
-It takes a research system to achieve reproducibility: An integrated design for precision health
+It takes a research system to achieve reproducibility: Designing an integrated precision health research environment
 
 Notes on Best Practices in Reproducible Research
 
