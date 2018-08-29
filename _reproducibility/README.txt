@@ -1,7 +1,14 @@
 
 It takes a research system to achieve reproducibility: Designing an integrated system to support precision health researchers
 
-Notes on Best Practices in Reproducible Research
+JAMIA
+https://academic.oup.com/jamiaopen/pages/General_Instructions
+
+Pitt & NYU Data Catalog
+https://github.com/nyuhsl/data-catalog
+
+
+Notes -------------------------------------------------------
 
 Data
   Logical data modeling
@@ -25,5 +32,3 @@ Version Control
   Production & Development Environments
   Releases
   
-Pitt & NYU Data Catalog
-https://github.com/nyuhsl/data-catalog
