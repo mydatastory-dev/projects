@@ -2,7 +2,11 @@
 It takes a research system to achieve reproducibility: Designing an integrated system to support precision health researchers
 
 JAMIA
-https://academic.oup.com/jamiaopen/pages/General_Instructions
+  Submission
+    https://academic.oup.com/jamia/pages/General_Instructions
+    https://academic.oup.com/jamiaopen/pages/General_Instructions
+  Archive
+    https://www.ncbi.nlm.nih.gov/pmc/journals/76/
 
 Pitt & NYU Data Catalog
 https://github.com/nyuhsl/data-catalog
