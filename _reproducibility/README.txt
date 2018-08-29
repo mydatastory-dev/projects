@@ -7,7 +7,6 @@ https://academic.oup.com/jamiaopen/pages/General_Instructions
 Pitt & NYU Data Catalog
 https://github.com/nyuhsl/data-catalog
 
-
 Notes -------------------------------------------------------
 
 Data
