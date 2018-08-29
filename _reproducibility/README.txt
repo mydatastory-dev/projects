@@ -9,7 +9,7 @@ JAMIA
     https://www.ncbi.nlm.nih.gov/pmc/journals/76/
 
 Pitt & NYU Data Catalog
-https://github.com/nyuhsl/data-catalog
+  https://github.com/nyuhsl/data-catalog
 
 Notes -------------------------------------------------------
 
