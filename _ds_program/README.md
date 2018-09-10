@@ -8,3 +8,4 @@ Faculty for the Curriculum Planning Group
 5. Deborah Burr
 6. Peter Bubenik
 7. Jaclyn Hall
+
