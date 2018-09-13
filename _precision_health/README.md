@@ -3,3 +3,4 @@ This folder contains documents related to UF's precision public health initiativ
 
 Contacts:
   Robert Kolb  kolbhr@ufl.edu
+  Mattia Prosperi m.prosperi@ufl.edu (Epidemiology)
