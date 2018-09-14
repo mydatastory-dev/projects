@@ -6,6 +6,7 @@ Contacts:
   
   Mattia Prosperi m.prosperi@ufl.edu (Epidemiology)
 
+------------------------------------------------------------------------------------
 
 Meeting (09.13.18)
   Meet w/Bill Hogan to discuss infrastructure
