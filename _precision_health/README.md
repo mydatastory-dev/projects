@@ -20,5 +20,5 @@ In the meeting, Mattia noted that most datasets and research in this space is no
 
 Afterwards, Tom raised the reproducibility issue.  Researchers in this space frequently discover correlations but as Mattia noted, hardly anyone validates their work.  Tom then said that doing so is an extremely expensive proposition, citing an NIH example in which the validation of a couple studies cost millions of dollars.  It appears that the bottom-line here is methodological -- i.e. we need to find ways to tease out correlations that have a greater probability of being genuine rather than spurious.
 
-Mattias indicated that he'd like to see us build a curated data system which provides pre-built linkages between large datasets.  This is a significant pain point for researchers working in this space.  Tom said that he's an "infrastructure" guy and wants us to create a system that gives UF a competitive advantage in the race for funding.
+Mattias indicated that he'd like to see us build a curated data system which provides pre-built linkages between large datasets as this is a significant pain point.  Tom said that he's an "infrastructure" guy and wants us to create a system that gives UF a competitive advantage in the race for funding.
 
