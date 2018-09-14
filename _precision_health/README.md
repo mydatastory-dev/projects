@@ -9,6 +9,7 @@ Contacts:
 ------------------------------------------------------------------------------------
 
 Meeting (09.13.18)
+  
   Meet w/Bill Hogan to discuss infrastructure
   
   Requirements gathering exercise w/researchers on the team
