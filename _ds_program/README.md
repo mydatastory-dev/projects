@@ -7,5 +7,5 @@ Faculty for the Curriculum Planning Group
 4. Matt Gitzendanner 
 5. Deborah Burr
 6. Peter Bubenik
-7. Jaclyn Hall
+7. Anwar Sounny-Slitine
 
