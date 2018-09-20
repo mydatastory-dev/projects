@@ -1,7 +1,8 @@
 
 This folder contains documents related to UF's precision public health initiative.
 
-NYU Data Catalog: https://osf.io/vg7rn/     
+NYU Data Catalog: https://osf.io/vg7rn/
+
                   https://github.com/nyuhsl/data-catalog
 
 Contacts:
