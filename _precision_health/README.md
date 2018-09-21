@@ -9,6 +9,7 @@ JAMIA
   Submission
   
   https://academic.oup.com/jamia/pages/General_Instructions
+  
   https://academic.oup.com/jamiaopen/pages/General_Instructions
     
   Archive
@@ -19,6 +20,7 @@ JAMIA
 NYU Data Catalog: 
 
 https://osf.io/vg7rn/
+
 https://github.com/nyuhsl/data-catalog
 
 ------------------------------------------------------------------------------------
