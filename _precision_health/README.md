@@ -16,8 +16,10 @@ JAMIA
   https://www.ncbi.nlm.nih.gov/pmc/journals/76/
 
 
-NYU Data Catalog: https://osf.io/vg7rn/
-                  https://github.com/nyuhsl/data-catalog
+NYU Data Catalog: 
+
+https://osf.io/vg7rn/
+https://github.com/nyuhsl/data-catalog
 
 ------------------------------------------------------------------------------------
 
