@@ -1,13 +1,19 @@
 
 This folder contains documents related to UF's precision public health initiative.
 
+------------------------------------------------------------------------------------
+It takes a research system to achieve reproducibility: Designing an integrated system to support precision health researchers
+
+JAMIA
+  Submission
+    https://academic.oup.com/jamia/pages/General_Instructions
+    https://academic.oup.com/jamiaopen/pages/General_Instructions
+  Archive
+    https://www.ncbi.nlm.nih.gov/pmc/journals/76/
+
+
 NYU Data Catalog: https://osf.io/vg7rn/
                   https://github.com/nyuhsl/data-catalog
-
-Contacts:
-  Robert Kolb  kolbhr@ufl.edu
-  
-  Mattia Prosperi m.prosperi@ufl.edu (Epidemiology)
 
 ------------------------------------------------------------------------------------
 
