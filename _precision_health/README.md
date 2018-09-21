@@ -7,10 +7,12 @@ It takes a research system to achieve reproducibility: Designing an integrated s
 JAMIA
 
   Submission
+  
   https://academic.oup.com/jamia/pages/General_Instructions
   https://academic.oup.com/jamiaopen/pages/General_Instructions
     
   Archive
+  
   https://www.ncbi.nlm.nih.gov/pmc/journals/76/
 
 
