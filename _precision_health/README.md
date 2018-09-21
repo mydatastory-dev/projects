@@ -2,8 +2,6 @@
 This folder contains documents related to UF's precision public health initiative.
 
 ------------------------------------------------------------------------------------
-It takes a research system to achieve reproducibility: Designing an integrated system to support precision health researchers
-
 JAMIA
 
   Submission
