@@ -19,7 +19,7 @@ Khoury et al (2013) favor a knowledge integration approach to "drive research, p
 ### Literature Review
 Khoury, M J, et al (2013). Transforming Epidemiology for 21st Century Medicine and Public Health.  *Cancer Epidemiology, Biomarkers & Prevention, 22*(4), 508–516.  doi:  10.1158/1055-9965.EPI-13-0146
 
-Khour, M.J. and Ioannidis, J.P.A. (2014).  Big data meets public health. *Science, 346*(6213), 1054-1055.
+Khoury, M.J. and Ioannidis, J.P.A. (2014).  Big data meets public health. *Science, 346*(6213), 1054-1055.
 
 ![Figure 1](../fig/precision_health_system.jpg)
 
