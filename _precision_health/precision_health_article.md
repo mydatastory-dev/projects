@@ -11,7 +11,7 @@ Public health data is characterized by high volume, great variety, high velocity
 
 In recommendation # 5 of their article, *Transforming Epidemiology for 21st Century Medicine and Public Health*, Khoury et al (2013) write, "The development of systematic approaches to robustly manage, integrate, analyze, and interpret large complex data sets is **crucial** (p. 14).  Furthermore, the authors recognize that this challenge requires not only expertise but political acumen as well.
 
-Technology makes it easier to search out and discover associations in big data environments.  Yet this capability also enhances the probability of "discovering" spurious correlations.  Or, as Khoury and Ioannidis (2014) write, "Big Error can plague Big Data" (p. 1054).  Researchers have yet to figure out ways of identifying which signals are worthy of investigation and which are not.  Chasing false positives can be, and often is, extremely expensive.    
+Technology makes it easier to search out and discover associations in big data environments.  Yet this capability also enhances the probability of "discovering" spurious correlations.  Or, as Khoury and Ioannidis (2014) warn, "Big Error can plague Big Data" (p. 1054).  Researchers have yet to figure out ways of identifying which signals are worthy of investigation and which are not.  Chasing false positives can be, and often is, extremely expensive.    
 
 ### Integrated Knowledge Management
 Khoury et al (2013) favor a knowledge integration approach to "drive research, policy and practice" (p. 14).  According to the authors, "knowledge management is a continuous process of identifying, selecting, storing, curating, and tracking relevant information across disciplines" (p. 15).  This therefore entails the selection and curation of articles, systematic reviews, and meta-analysis.
@@ -20,6 +20,8 @@ Khoury et al (2013) favor a knowledge integration approach to "drive research, p
 Khoury, M J, et al (2013). Transforming Epidemiology for 21st Century Medicine and Public Health.  *Cancer Epidemiology, Biomarkers & Prevention, 22*(4), 508–516.  doi:  10.1158/1055-9965.EPI-13-0146
 
 Khoury, M.J. and Ioannidis, J.P.A. (2014).  Big data meets public health. *Science, 346*(6213), 1054-1055.
+
+Ola, O. and Sedig, K. (2014). The challenge of big data in public health: An opportunity for visual analytics. *Online Journal of Publich Health Informatics 5*(3):e223.
 
 ![Figure 1](../fig/precision_health_system.jpg)
 
