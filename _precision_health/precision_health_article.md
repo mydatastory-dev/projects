@@ -7,7 +7,7 @@ The opportunity is for academic research libraries to design and develop integra
 ### Big Data
 Public health professionals, as Ola & Sedig (2014) point out, are "overwhelmed with massive amounts of data on a regular basis" and data set overload has "forced many epidemiologists to become data managers" (p. 11 & 12).  The PH informatics community has yet to address this issue in an appropriate way, especially in the data visualization space. 
 
-Public health data is characterized by high volume, great variety, high velocity, and low veracity (Ola & Sedig, 2014, p. 3).  A similar set of characteristics define big data more generally, also called the four V's (volume, variety, veracity, and velocity) of big data.
+Public health data is characterized by high volume, great variety, high velocity, and low veracity (Ola & Sedig, 2014, p. 3).  The same can be said of big data more generally, with the addition of velocity.  These four attributes (volume, variety, veracity, and velocity) are also referred to as the four V's of big data.
 
 In recommendation # 5 of their article, *Transforming Epidemiology for 21st Century Medicine and Public Health*, Khoury et al (2013) write, "The development of systematic approaches to robustly manage, integrate, analyze, and interpret large complex data sets is **crucial** (p. 14).  Furthermore, the authors recognize that this challenge requires not only expertise but political acumen as well.
 
