@@ -27,6 +27,8 @@ Health & Place
 
 Social Science & Medicine
 
+Social Science & Medicine: Part D Medical Geography
+
 http://placemigrationandhealth.org
 
 ------------------------------------------------------------------------------------
