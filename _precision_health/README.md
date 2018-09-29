@@ -21,6 +21,12 @@ https://osf.io/vg7rn/
 
 https://github.com/nyuhsl/data-catalog
 
+Journals
+
+Health & Place
+
+Social Science & Medicine
+
 ------------------------------------------------------------------------------------
 
 Meeting (09.13.18)
