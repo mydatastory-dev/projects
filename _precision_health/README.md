@@ -2,7 +2,7 @@
 This folder contains documents related to UF's precision public health initiative.
 
 ------------------------------------------------------------------------------------
-JAMIA
+### JAMIA
 
   Submission
   
@@ -15,17 +15,19 @@ JAMIA
   https://www.ncbi.nlm.nih.gov/pmc/journals/76/
 
 
-NYU Data Catalog: 
+### NYU Data Catalog
 
 https://osf.io/vg7rn/
 
 https://github.com/nyuhsl/data-catalog
 
-Journals
+### Journals
 
 Health & Place
 
 Social Science & Medicine
+
+http://placemigrationandhealth.org
 
 ------------------------------------------------------------------------------------
 
