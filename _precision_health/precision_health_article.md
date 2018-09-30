@@ -18,6 +18,8 @@ Technology makes it easier to search out and discover associations in big data e
 ### Integrated Knowledge Management
 Khoury et al (2013) favor a knowledge integration approach to "drive research, policy and practice" (p. 14).  According to the authors, "knowledge management is a continuous process of identifying, selecting, storing, curating, and tracking relevant information across disciplines" (p. 15).  This therefore entails the selection and curation of articles, systematic reviews, and meta-analysis.
 
+The fragmentation of public health datasets creates data silos which make it practically impossible to achieve a complete picture of either the individual or the population (Dickerson & Yao, 2014, p. 90). 
+
 ### Literature Review
 Khoury, M J, et al (2013). Transforming Epidemiology for 21st Century Medicine and Public Health.  *Cancer Epidemiology, Biomarkers & Prevention, 22*(4), 508–516.  doi:  10.1158/1055-9965.EPI-13-0146
 
