@@ -25,6 +25,8 @@ The fragmentation of public health datasets creates data silos which make it pra
 In addition to curating datasets, a holistic big data research system ought to include information artifacts as well.  These include full-text copies of research articles and collateral (grey) literature of specific interest to the lines of inquiry being pursued within a given public health program.  Indeed, pure research needs to be contextualized, especially in clinically-focused fields which rely so heavily on *actionable* information.  Busy clinicians - whether physicians, nurses, or epidemiologists - need actionable insights, based on valid research findings, to share with patients and clients.  Ideally, this information would be context-specific.  A nurse practitioner in rural Appalachia, for example, will view the opioid crisis from a lens that differs significantly from a public health professional in an urban setting like Los Angeles.
 
 ### Literature Review
+Dickerson, D and Yao, P. (2014). In Magnuson, J.A. and Fu, P.C. (eds) Public health informatics and information systems (2nd ed.). New York, NY: Springer.
+
 Khoury, M J, et al (2013). Transforming Epidemiology for 21st Century Medicine and Public Health.  *Cancer Epidemiology, Biomarkers & Prevention, 22*(4), 508–516.  doi:  10.1158/1055-9965.EPI-13-0146
 
 Khoury, M.J. and Ioannidis, J.P.A. (2014).  Big data meets public health. *Science, 346*(6213), 1054-1055.
