@@ -29,6 +29,9 @@ Social Science & Medicine
 
 http://placemigrationandhealth.org
 
+Journal of Medical Internet Research 
+
+https://www.jmir.org/
 ------------------------------------------------------------------------------------
 
 Meeting (09.13.18)
