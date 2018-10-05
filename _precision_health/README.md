@@ -32,6 +32,10 @@ http://placemigrationandhealth.org
 Journal of Medical Internet Research 
 
 https://www.jmir.org/
+
+OJPHI 
+http://ojphi.org/ojs/index.php/ojphi/about
+
 ------------------------------------------------------------------------------------
 
 Meeting (09.13.18)
