@@ -1,6 +1,8 @@
 How much time do you typically spend searching for data to answer a given research question?
 
-Which data scrubbing activities take the most time?  Where are your pain points?
+Which data scrubbing activities take the most time?
+
+What data wrangling services would you find most valuable?
 
 What types of data linking do you do?
 
