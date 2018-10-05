@@ -10,7 +10,7 @@ What kinds of data do you work with?  (structured, unstructured, genomic, restri
 
 Are you doing any hierarchical (multi-level) analysis?
 
-Does your research involve the study of interactional effects between levels?
+Does your research involve the investigation of interactional effects between levels?
 
 How large are your datasets?
 
