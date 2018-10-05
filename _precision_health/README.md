@@ -34,6 +34,7 @@ Journal of Medical Internet Research
 https://www.jmir.org/
 
 OJPHI 
+
 http://ojphi.org/ojs/index.php/ojphi/about
 
 ------------------------------------------------------------------------------------
