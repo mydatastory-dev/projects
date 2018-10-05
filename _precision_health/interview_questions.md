@@ -1,4 +1,19 @@
+How much time do you typically spend searching for data to answer a given research question?
 
-Discuss the issues you have with linking disparate data sets?
+Which data scrubbing activities take the most time?  Where are your pain points?
 
-Do you do multi-level modelling? 
+What types of data linking do you do?
+
+What issues or problems do you encounter when linking disparate datasets? 
+
+What kinds of data do you work with?  (structured, unstructured, genomic, restricted patient, text, etc...)
+
+Are you doing any hierarchical (multi-level) analysis?
+
+Does your research involve the study of interactional effects between levels?
+
+How large are your datasets?
+
+
+
+
