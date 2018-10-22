@@ -83,15 +83,11 @@ Prizes will be awarded to the first, second, and third place winners.  The first
 ### **Contact**
 Please direct all questions regarding the MyDataStory competition to **mydatastory@gmail.com**
 
-### **Sponsors**
+### **Our Sponsors**
 
-![](../fig/ufii_logo.png)
+![](../fig/sponsors_logo.png)
 
-\newline
-![](../fig/ufdsi_logo.png)
 
-\newline
-![](../fig/libraries_logo.png)
 
 
 
