@@ -1,6 +1,7 @@
 
 This folder contains documents related to UF's precision public health initiative.
 
+[PPH LibGuide]http://guides.uflib.ufl.edu/precisionpublichealth
 ------------------------------------------------------------------------------------
 ### JAMIA
 
