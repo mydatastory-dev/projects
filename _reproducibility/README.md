@@ -3,31 +3,31 @@
 
 
 -------------------------------------------------------
-Data
+#### Data
   Logical data modeling
   
   Physical data modeling
   
-Code
+#### Code
   Defensive Programming
       Dynamic and static typed languages
       
-  Functional Thinking
+#### Functional Thinking
       The contract
       
-  Code for the Future You
+#### Code for the Future You
       Naming standards
       
-  Reproducible Science & Unit Testing
+#### Reproducible Science & Unit Testing
       Continuous integration
       
-  Software Layers
+#### Software Layers
       Separation of data, analysis, and visualization (MVC model)
-      
-  Rapid Prototyping
+       
+#### Rapid Prototyping
       Axure
       
-Version Control
+#### Version Control
   Production & Development Environments
   
   Releases
