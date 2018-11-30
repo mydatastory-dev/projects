@@ -1,4 +1,8 @@
 
 Ying's Spark workshop materials can be found [here](http://help.rc.ufl.edu).
 
-#### Hypothesis-Free Discovery
+#### A Curriculum to teach Hypothesis-Free Inquiry in Supercomputing Environments
+
+
+
+
