@@ -1,7 +1,7 @@
 
 Ying's Spark workshop materials can be found [here](http://help.rc.ufl.edu).
 
-#### Learning Modules to teach Hypothesis-Free Inquiry in Supercomputing Environments
+#### Learning Modules for Hypothesis-Free Inquiry in Supercomputing Environments
 
 1. Data discovery: This is a highly creative step in which the researcher finds datasets to place in juxtaposition to each other.
 2. Data cleaning : This step prepares the data for linking.
