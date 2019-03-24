@@ -24,6 +24,6 @@ Object-Oriented Programming
 - Black Box (code encapsulated within an interface)
 
 
-Anatomy of an Environment Wide Association Study (EWAS): An Analysis of Key Decisions
+#### Anatomy of an Environment Wide Association Study (EWAS): An Analysis of Key Decisions
 
 Intuitive sense of what matters and what doesn't.  Complexity raises the probability of model overfitting.
