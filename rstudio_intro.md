@@ -349,7 +349,7 @@ ls
     ##     }
     ##     else all.names
     ## }
-    ## <bytecode: 0x00000000189c2b58>
+    ## <bytecode: 0x00000000189c2af8>
     ## <environment: namespace:base>
 
 You can use `rm` to delete objects you no longer need:
@@ -424,10 +424,9 @@ min-length
 celsius2kelvin
 ```
 
-``` r
 <details><summary>Solution</summary>
 <p>
-
+``` r
 # Solution to challenge 1
 
 # The following can be used as R variables:
@@ -443,10 +442,10 @@ celsius2kelvin
 _age
 min-length
 2widths
+```
 
 </p>
 </details>
-```
 
 Challenge 2
 -----------
