@@ -424,9 +424,10 @@ min-length
 celsius2kelvin
 ```
 
+``` r
 <details><summary>Solution</summary>
 <p>
-``` r
+
 # Solution to challenge 1
 
 # The following can be used as R variables:
@@ -442,10 +443,10 @@ celsius2kelvin
 _age
 min-length
 2widths
-```
 
 </p>
 </details>
+```
 
 Challenge 2
 -----------
