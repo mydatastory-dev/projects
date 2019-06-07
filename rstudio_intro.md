@@ -349,7 +349,7 @@ ls
     ##     }
     ##     else all.names
     ## }
-    ## <bytecode: 0x00000000189c2af8>
+    ## <bytecode: 0x00000000149c2c38>
     ## <environment: namespace:base>
 
 You can use `rm` to delete objects you no longer need:
@@ -426,6 +426,27 @@ celsius2kelvin
 
 <details><summary>Solution</summary>
 <p>
+``` r
+# Solution to challenge 1
+
+# The following can be used as R variables:
+min_height
+max.height
+MaxLength
+celsius2kelvin
+
+# The following creates a hidden variable:
+.mass
+
+# The following will not be able to be used to create a variable
+_age
+min-length
+2widths
+```
+
+</p>
+</details>
+
 ``` r
 # Solution to challenge 1
 
