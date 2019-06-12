@@ -5,4 +5,4 @@
 
 [RStudio](https://rawcdn.githack.com/mydatastory/projects_share/00638f995a7f78cfdc1fb4d6567fd09a348abcc6/rstudio_intro.html)
 
-http://html5doctor.com/the-details-and-summary-elements/
+[HTML5 Hide/Show](http://html5doctor.com/the-details-and-summary-elements/)
