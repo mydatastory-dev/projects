@@ -1,6 +1,7 @@
 
 #### This repository contains documents for projects currently being worked on by the myDataStory team.
 
+---------------------------------------------------------------------------
 ### HTML5 Hide/Show
 [HTML5 Hide/Show](http://html5doctor.com/the-details-and-summary-elements/)
 
