@@ -1,8 +1,6 @@
 
 #### This repository contains documents for projects currently being worked on by the myDataStory team.
 
-[Run/Quit](https://rawcdn.githack.com/mydatastory/projects_share/80fa409611b3e5d0ceb1ba3789b41b65bcf79123/run_quit.html)
-
-[RStudio](https://rawcdn.githack.com/mydatastory/projects_share/00638f995a7f78cfdc1fb4d6567fd09a348abcc6/rstudio_intro.html)
-
 [HTML5 Hide/Show](http://html5doctor.com/the-details-and-summary-elements/)
+
+The HTML5 hide/show code is not presently supported by IE Explorer.  Both Chrome and Firefox, on the other hand, properly hide and show sections.  Also, this code works in RMarkdown when knitting to a .html document.  It does not work when knitting to the Markdown format.  When using this code in a Jupyter Notebook, export it to either a Markdown or .html document.
