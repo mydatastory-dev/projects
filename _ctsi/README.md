@@ -3,7 +3,13 @@ This folder contains documents related to the CTSI DataStory funded project.
 
 See ../doc for the Clinical Reasearch Assessment Inventory (CRAI) survey.
 
-----------------------------------------------------------------------------
+#### CTSI Links
+[Association for Clinical and Translational Science](http://www.actscience.org/)
+
+[Journal of Clinical Translational Science](https://www.cambridge.org/core/journals/journal-of-clinical-and-translational-science)
+
+[DIAMOND](https://diamondportal.org/)
+
 #### Articles
 Federer, L. M., Lu, Y. L., & Joubert, D. J. (2016). Data literacy training needs of biomedical researchers. Journal of the Medical Library Association : JMLA, 104(1), 52–57. doi:10.3163/1536-5050.104.1.008 [Article](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4722643/)
 
