@@ -1,7 +1,9 @@
 
 This folder contains documents related to the CTSI DataStory funded project.  
 
-The Clinical Reasearch Assessment Inventory (CRAI) survey can be found [here](https://github.com/mydatastory/shared_projects/tree/master/doc) while grant-related documents can be found [here](https://github.com/danielsmaxwell/research/tree/master/_ctsi)
+The Clinical Reasearch Assessment Inventory (CRAI) survey can be found [here](https://github.com/mydatastory/shared_projects/tree/master/doc).
+
+Grant-related documents can be found [here](https://github.com/danielsmaxwell/research/tree/master/_ctsi)
 
 #### CTSI Links
 [Association for Clinical and Translational Science](http://www.actscience.org/)
