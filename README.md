@@ -1,7 +1,7 @@
 
 This repository contains documents for projects currently being worked on by the myDataStory team.
 
-[Color Schemes](https://www.schemecolor.com/)
+[Scheme Color](https://www.schemecolor.com/)
 
 ---------------------------------------------------------------------------
 ### HTML5 Hide/Show
