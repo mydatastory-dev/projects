@@ -3,7 +3,9 @@ This repository contains documents for projects currently being worked on by the
 
 [Scheme Color](https://www.schemecolor.com/)
 
-[Material Design System](https://material.io/)
+[Futurama Color Palette](https://nanx.me/ggsci/reference/pal_futurama.html)
+
+[Nature Color Palette](https://nanx.me/ggsci/reference/pal_npg.html)
 
 ---------------------------------------------------------------------------
 ### HTML5 Hide/Show
