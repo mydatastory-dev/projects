@@ -1,14 +1,6 @@
 
 This repository contains documents for projects currently being worked on by the myDataStory team.
 
-[Scheme Color](https://www.schemecolor.com/)
-
-[Futurama Color Palette](https://nanx.me/ggsci/reference/pal_futurama.html)
-
-[Nature Color Palette](https://nanx.me/ggsci/reference/pal_npg.html)
-
-[R Color Palette](https://nanx.me/ggsci/articles/ggsci.html)
-
 ---------------------------------------------------------------------------
 ### HTML5 Hide/Show
 [HTML5 Hide/Show](http://html5doctor.com/the-details-and-summary-elements/)
