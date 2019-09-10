@@ -1,6 +1,10 @@
 
 This repository contains documents for projects currently being worked on by the myDataStory team.
 
+#### Helpful Links
+
+[Style Guide](https://github.com/mydatastory/stories/blob/master/doc/style_guide.pptx)
+
 ---------------------------------------------------------------------------
 ### HTML5 Hide/Show
 [HTML5 Hide/Show](http://html5doctor.com/the-details-and-summary-elements/)
