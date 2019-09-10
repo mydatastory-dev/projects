@@ -4,7 +4,7 @@ This repository contains documents for projects currently being worked on by the
 #### Links
 
 - [Style Guide](https://github.com/mydatastory/stories/blob/master/doc/style_guide.pptx)
-- Coding Standards](https://github.com/mydatastory/shared_projects/blob/master/doc/coding_standards.docx)
+- [Coding Standards](https://github.com/mydatastory/shared_projects/blob/master/doc/coding_standards.docx)
 
 ---------------------------------------------------------------------------
 ### HTML5 Hide/Show
