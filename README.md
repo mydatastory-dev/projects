@@ -5,7 +5,6 @@ This repository contains documents for projects currently being worked on by the
 
 - [Style Guide](https://github.com/mydatastory/stories/blob/master/doc/style_guide.pptx)
 - [Coding Standards](https://github.com/mydatastory/shared_projects/blob/master/doc/coding_standards.docx)
-- [Storyboards](https://github.com/mydatastory/videos/blob/master/_scripts/storyboards.docx)
 - [DataStory Presentation](https://github.com/mydatastory/shared_projects/blob/master/doc/data_story_presentation.pptx)
 
 ---------------------------------------------------------------------------
