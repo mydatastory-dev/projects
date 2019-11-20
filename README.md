@@ -6,7 +6,6 @@ This repository contains documents for projects currently being worked on by the
 - [Style Guide](https://github.com/mydatastory/stories/blob/master/doc/style_guide.pptx)
 - [Coding Standards](https://github.com/mydatastory/shared_projects/blob/master/doc/coding_standards.docx)
 - [DataStory Presentation](https://github.com/danielsmaxwell/presentations/blob/master/_datastory/data_story_presentation.pptx)
-- [Character Renderings](https://github.com/mydatastory/stories/blob/master/fig/characters.jpg)
 
 ---------------------------------------------------------------------------
 ### HTML5 Hide/Show
