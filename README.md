@@ -8,6 +8,13 @@ This repository contains documents for projects currently being worked on by the
 - [DataStory Presentation](https://github.com/danielsmaxwell/presentations/blob/master/_datastory/data_story_presentation.pptx)
 
 ---------------------------------------------------------------------------
+#### Traditional Lecture Video Links + Textbook
+
+- [Open Learning Textbook](https://bolt.mph.ufl.edu/)
+- [Video Lecture List](https://bolt.mph.ufl.edu/category/important-concepts/dr-cantrells-lectures/)
+- [YouTube Channel](https://www.youtube.com/channel/UC8njmeQtGADDYZOsLtft1DA/featured) (All videos are unlisted, perhaps we can get permission if necessary)
+
+---------------------------------------------------------------------------
 ### HTML5 Hide/Show
 [HTML5 Hide/Show](http://html5doctor.com/the-details-and-summary-elements/)
 
