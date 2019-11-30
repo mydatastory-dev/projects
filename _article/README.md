@@ -1,3 +1,6 @@
+Comics Study Society [CSS](http://comicssociety.org/)
+  - Publishes [Inks](http://inks.comicssociety.org/)
+
 American Association of Medical Colleges [AAMC](https://www.aamc.org/)
   - Publishes [Academic Medicine](https://journals.lww.com/academicmedicine/pages/default.aspx)
 
@@ -7,7 +10,4 @@ Association for the Study of Medical Education [ASME](https://www.asme.org.uk/)
 Springer
   - Publishes [Advances in Health Science Education](https://www.springer.com/journal/10459)
 
-Comics Study Society [CSS](http://comicssociety.org/)
-  - Publishes [Inks](http://inks.comicssociety.org/)
-  
 Medical Education Journal [Rankings](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4944326/)
